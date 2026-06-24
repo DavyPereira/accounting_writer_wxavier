@@ -154,25 +154,25 @@ export default function Home() {
             </div>
 
             <div className="mt-10 grid max-w-xl grid-cols-3 gap-4">
-              <div>
-                <p className="text-3xl font-bold text-white">98%</p>
-                <p className="mt-1 text-sm text-slate-400">
-                  Processos digitais
-                </p>
-              </div>
-              <div>
-                <p className="text-3xl font-bold text-white">+12</p>
-                <p className="mt-1 text-sm text-slate-400">
-                  Rotinas atendidas
-                </p>
-              </div>
-              <div>
-                <p className="text-3xl font-bold text-white">24h</p>
-                <p className="mt-1 text-sm text-slate-400">
-                  Resposta inicial
-                </p>
-              </div>
-            </div>
+  <div>
+    <p className="text-3xl font-bold text-white">98%</p>
+    <p className="mt-1 text-sm text-slate-400">
+      Processos digitais
+    </p>
+  </div>
+  <div>
+    <p className="text-3xl font-bold text-white">+12</p>
+    <p className="mt-1 text-sm text-slate-400">
+      Rotinas atendidas
+    </p>
+  </div>
+  <div>
+    <p className="text-3xl font-bold text-white">24h</p>
+    <p className="mt-1 text-sm text-slate-400">
+      Resposta inicial
+    </p>
+  </div>
+</div>
           </motion.div>
 
           <motion.div
@@ -279,7 +279,7 @@ export default function Home() {
 
           <div className="space-y-6 text-lg leading-8 text-slate-600">
             <p>
-              A Nexcont Assessoria foi pensada para empresas que querem mais do
+              A W Xavier Contabilidade foi pensada para empresas que querem mais do
               que apenas cumprir obrigações. Nosso foco é transformar dados
               contábeis em informações úteis para tomada de decisão.
             </p>
@@ -460,14 +460,14 @@ export default function Home() {
       <footer className="border-t border-slate-200 bg-white px-6 py-10">
         <div className="mx-auto flex max-w-7xl flex-col justify-between gap-6 md:flex-row md:items-center">
           <div>
-            <p className="text-lg font-bold">Nexcont Assessoria</p>
+            <p className="text-lg font-bold">W Xavuer Contabilidade</p>
             <p className="mt-1 text-sm text-slate-500">
               Contabilidade estratégica para empresas modernas.
             </p>
           </div>
 
           <p className="text-sm text-slate-500">
-            © 2026 Nexcont Assessoria. Todos os direitos reservados.
+            © 2026 W Xavier Contabilidade. Todos os direitos reservados.
           </p>
         </div>
       </footer>
